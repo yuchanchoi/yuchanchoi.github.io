@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #111111;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 25px 8%;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.hero {
+    min-height: 70vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 0 10%;
+}
+
+.hero h1 {
+    font-size: 70px;
+    margin: 10px 0;
+}
+
+.hero h2 {
+    max-width: 700px;
+    font-weight: normal;
+    color: #aaaaaa;
+}
+
+.hero a {
+    margin-top: 20px;
+
+    color: white;
+    text-decoration: none;
+
+    border: 1px solid white;
+
+    padding: 12px 20px;
+
+    width: fit-content;
+}
+
+section {
+    padding: 80px 10%;
+}
+
+.project {
+    border-top: 1px solid #444444;
+
+    padding: 30px 0;
+}
+
+.project h3 {
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.project p {
+    color: #aaaaaa;
+}
