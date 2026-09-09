@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PCB Projects | Yuchan Choi</title>
+
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+
+    <nav>
+        <h2>YC</h2>
+
+        <div>
+            <a href="../index.html">Home</a>
+            <a href="../index.html#projects">Projects</a>
+            <a href="../index.html#experience">Experience</a>
+            <a href="../index.html#about">About</a>
+        </div>
+    </nav>
+
+    <main>
+
+        <section class="project-page">
+
+            <p>PERSONAL</p>
+
+            <h1>PCB Personal Projects</h1>
+
+            <p>
+                PCB • Electronics • Embedded
+            </p>
+
+            <h2>Overview</h2>
+
+            <p>
+                Project description coming soon.
+            </p>
+
+            <h2>My Role</h2>
+
+            <p>
+                Role description coming soon.
+            </p>
+
+            <h2>Gallery</h2>
+
+            <p>
+                Images coming soon.
+            </p>
+
+            <a href="../index.html#projects">
+                ← Back to Projects
+            </a>
+
+        </section>
+
+    </main>
+
+</body>
+
+</html>
